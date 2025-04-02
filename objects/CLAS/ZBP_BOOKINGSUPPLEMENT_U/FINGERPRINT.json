@@ -1,0 +1,46 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC ZBP_BOOKINGSUPPLEMENT_U=======CCAU.abap",
+   "fingerprint":"+Q14BnVxWgtB0YbVJXhiP+nLYhkyW7udePnPxIltgqV0nCtdZ92h6LhVi2yBur2/kfsTDiQ421Tp23062vi6cQ=="
+  },
+  {
+   "name":"CINC ZBP_BOOKINGSUPPLEMENT_U=======CCDEF.abap",
+   "fingerprint":"xoTPiqyIaYkvpOBeYY9pRZy8zzL5V7u9zb2ANaJHJ5+opuX+3wTDNsZCtpObvLL2JJiIBDX1pDqp4LsLl6u9ow=="
+  },
+  {
+   "name":"CINC ZBP_BOOKINGSUPPLEMENT_U=======CCIMP.abap",
+   "fingerprint":"3X0uPKjMvEM7VO8/grtapBuSykv4tG5u+6QsqvXdmZwhE74RTM8iTeV/j9RsVESJ4jxqrBImq+VE60LRMfj13w=="
+  },
+  {
+   "name":"CINC ZBP_BOOKINGSUPPLEMENT_U=======CCMAC.abap",
+   "fingerprint":"7yakgatcJiOhmtgYtpIReA/dq5EmOgut4T/hQSAe2Wtc3i6hI9s+8SsNVzGDVzO5W4aAT7jBktIk0EpLeXubOg=="
+  },
+  {
+   "name":"CLAS ZBP_BOOKINGSUPPLEMENT_U.asx.json",
+   "fingerprint":"QH9OyMj/h/yJiNCb5MFIboEGADtxoa7dfsGRaPjzrZcBkDXojNJ+yyDWm/5zkyeRdDzo9NsaP7+z0QdP2jKDlg=="
+  },
+  {
+   "name":"CLSD ZBP_BOOKINGSUPPLEMENT_U.abap",
+   "fingerprint":"uY3SuHpopo60ac0zPsOUfDg04zEYekGPT3TXJPTpDYD19svXCrZB5ku7uQviwt2GeiKyVl2QpJZGsZM5Xz4kcA=="
+  },
+  {
+   "name":"CPRI ZBP_BOOKINGSUPPLEMENT_U.abap",
+   "fingerprint":"DJXCygJvFHWzM8jHJwuq2mVMUTd3T98n+fWi3UD7Y5ptld4SXAjIBRHdyd74AvBoIhsmonYYLuohem/r3JZfPQ=="
+  },
+  {
+   "name":"CPRO ZBP_BOOKINGSUPPLEMENT_U.abap",
+   "fingerprint":"Xq2+O1XSMS19wlJ/t+f6BniErIujk+RIXII93PAMykH8dkioITxGtOpiOlwZTl252j1VIjWWygFQwRZunTfE6A=="
+  },
+  {
+   "name":"CPUB ZBP_BOOKINGSUPPLEMENT_U.abap",
+   "fingerprint":"3Nn7WOUcYvwLjiNGkWWvKArXLdl0sEIQIkoDgYbG7KaOZvH6tZvEYn8NA/m4k8HcrIg4ad7IjPvzb1anY8YndQ=="
+  },
+  {
+   "name":"REPS ZBP_BOOKINGSUPPLEMENT_U=======CT.abap",
+   "fingerprint":"eEI21UK/Cz87D4IAh7uCodWEsJJvC2uYwx4oQh+dAKhh5pzbCIspU2wFVnYIE6cNnrRtoVrQ6aQdO2dvFoFUmg=="
+  }
+ ],
+ "fingerprintAll":"GJNvFt6XoGsgysJDrnCEXGlEyfE5yrS5Yw3zdPg5Jfif1F95rmkfUDbOl4T0bLqy6gpf3yvfsKHL00ChEK9Gyw=="
+}

@@ -1,0 +1,64 @@
+[
+ {
+  "table":"DDDDLSRC",
+  "data":
+  [
+   {
+    "DDLNAME":"ZZZ_X_SLOGAN_C_AGENCY",
+    "AS4LOCAL":"N",
+    "AS4USER":"SAP_CUSTOMER",
+    "AS4DATE":"0000-00-00",
+    "AS4TIME":"00:00:00",
+    "SOURCE":"extend view entity ZC_AgencyTP with\r\n{\r\n  @UI: {\r\n    lineItem:   [ { position: 25, importance: #HIGH },\r\n                  { position: 10, type: #FOR_ACTION, dataAction: 'ZcreateFromTemplate', label: 'Create from Template' } ],\r\n    fieldGroup: [ { position: 25, qualifier: 'General_FG' } ],\r\n    identification: [ { position: 10, type: #FOR_ACTION, dataAction: 'ZcreateFromTemplate', label: 'Create from Template' } ]\r\n  }\r\n  @Search.defaultSearchElement: true\r\n  @Search.fuzzinessThreshold: 0.8\r\n  Agency.ZZZSloganZAG\r\n\r\n}\r\n/*+[internal] {\n\"BASEINFO\":\n{\n\"FROM\":\n[\n\"I_COUNTRY\",\n\"I_COUNTRYTEXT\",\n\"ZR_AGENCYTP\"\n],\n\"ASSOCIATED\":\n[],\n\"BASE\":\n[],\n\"ANNO_REF\":\n[],\n\"SCALAR_FUNCTION\":\n[],\n\"VERSION\":0,\n\"ANNOREF_EVALUATION_ERROR\":\"\"\n}\n}*/",
+    "PARENTNAME":"ZC_AGENCYTP",
+    "ACTFLAG":"",
+    "CHGFLAG":"",
+    "SOURCE_TYPE":"X",
+    "SOURCE_ORIGIN":"0",
+    "ABAP_LANGUAGE_VERSION":"5"
+   }
+  ]
+ },
+ {
+  "table":"DDDDLSRCT",
+  "data":
+  [
+   {
+    "DDLNAME":"ZZZ_X_SLOGAN_C_AGENCY",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Extension View: Slogan"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"DDLS",
+    "OBJ_NAME":"ZZZ_X_SLOGAN_C_AGENCY",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"SAP_CUSTOMER",
+    "SRCDEP":"",
+    "DEVCLASS":"ZFLIGHT_REUSE_AGENCY_SLOGN",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"ZFLIGHT",
+    "CRELEASE":"100",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2025-04-02",
+    "CHECK_DATE":"2025-04-02",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

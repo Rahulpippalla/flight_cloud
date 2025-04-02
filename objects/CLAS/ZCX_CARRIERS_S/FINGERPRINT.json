@@ -1,0 +1,46 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC ZCX_CARRIERS_S================CCDEF.abap",
+   "fingerprint":"/3GFAV95nkgnhqgK08hlmx/2/ovU1k6unXlCnQlLCxXfLDIzr0gDzY3RuTxFEaHge0x0bUs7PQEmXPT5HPHZMA=="
+  },
+  {
+   "name":"CINC ZCX_CARRIERS_S================CCIMP.abap",
+   "fingerprint":"6UmCPoKp8jYHAYxxf+NbGp1SmkXsEUupGUE4etgbVUy3reqwC1MDbJIaeYRAPzIWyqc4MHkiKI1Vv/pazV9kSg=="
+  },
+  {
+   "name":"CINC ZCX_CARRIERS_S================CCMAC.abap",
+   "fingerprint":"sGs/ZDElZmixS9xJKc+7TJeFxs/jDvE06M+cBDCS0cPquwVncdePvDt3WP8SFWredrkLYxOgFNCSGzWiyc+JhA=="
+  },
+  {
+   "name":"CLAS ZCX_CARRIERS_S.asx.json",
+   "fingerprint":"kpJR4LZJBo1iEikIqJpdwCZFXMWsEksbYoBylNmEM8Ly++b6UmxBRRrMNZ3G1CaNhQnUa4eWxS4NHr6OF7m0dQ=="
+  },
+  {
+   "name":"CLSD ZCX_CARRIERS_S.abap",
+   "fingerprint":"LWKdrnu6sILwl8qbWYGDZtVNAVX07qoKqCSDH3aUgwALYOK4TmtTnvUGtbr4fe0L1+J/NTfmf8lehh0IbZXVog=="
+  },
+  {
+   "name":"CPRI ZCX_CARRIERS_S.abap",
+   "fingerprint":"ADJrwdLJdLE1esD0ZsGlbgHFgdMPPebkWzc58QPOgwVSw47xkKi5qyPpIjALQww0M7y/QCQdhJtx0bZesjwNQA=="
+  },
+  {
+   "name":"CPRO ZCX_CARRIERS_S.abap",
+   "fingerprint":"ZfI4OyQpxCv74+zk7+c1s3vJ5dHiZgMwW2xdyUhVWrKUu0Osy/4sDPU/MYUEhCAsUrkO+o0//9JT52JqmGAfvw=="
+  },
+  {
+   "name":"CPUB ZCX_CARRIERS_S.abap",
+   "fingerprint":"iWtR3WBCXJunQFjOVE1svrSo5+0yjf0Ru365WhYU70IrKRtuQBwjfNIDy1RlJEyKxbtpS8pulIp0nisqiGpT8g=="
+  },
+  {
+   "name":"METH CONSTRUCTOR.abap",
+   "fingerprint":"3eOAoxxU6hnTOV70vlCyaIYEhoOvQm5Pdf49D0D9lZQ8749Q8bh+o+13GkpGN8zLGfUCm/b8XTmQ4EccjWSMTQ=="
+  },
+  {
+   "name":"REPS ZCX_CARRIERS_S================CT.abap",
+   "fingerprint":"5ym4oS2zx/gUSFKzw6AHUfoIFG8y73TtPZtgADly8uFODkYkkghY8Tx6kgYJ3kVBOqY5/ux30HKHPBgy2EH/0A=="
+  }
+ ],
+ "fingerprintAll":"fMtX8Zwm/RNelLifyYMWnNM5vaY4x5upx+GtHwTUL5LcD6KqtzOei/mCiEQCSqm1l1UYplMDh/KQgWGkN1ak+Q=="
+}

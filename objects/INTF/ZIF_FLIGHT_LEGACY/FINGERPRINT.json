@@ -1,0 +1,22 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"INTF ZIF_FLIGHT_LEGACY.asx.json",
+   "fingerprint":"39a82F8DZSaSNy03l6OAhM0/yU/D1HV9A9kMo6jqpa8E+kFgTnFG0G1TF/tB8aM8Hi4xkfs0g1VY8NkDiDMLow=="
+  },
+  {
+   "name":"REPS ZIF_FLIGHT_LEGACY=============IP.abap",
+   "fingerprint":"sFTwcPfz4ycBYqnahv+fG43/lwREKyAYpSNZ4qaXbwZPCgCeN0ruLMsTYUInbcqnAMQgNSeOAX5rIAArvmVtjA=="
+  },
+  {
+   "name":"REPS ZIF_FLIGHT_LEGACY=============IT.abap",
+   "fingerprint":"51LN5VL2z7x0E4wtn/ggTqkm06nkpYf+AG83eV41t6H9SzUyN8lFSrfY8r3uH3gBQK5h6fYEyaWYdsTo5wqlCA=="
+  },
+  {
+   "name":"REPS ZIF_FLIGHT_LEGACY=============IU.abap",
+   "fingerprint":"VN4ix8foMzqgvLTud31/1HS/ZLPw0CM0NHnaLr5TmWfWFSyhIdkmJaiTsFmPspy7gZ8+oH3MgQYA7ZdUrqbnew=="
+  }
+ ],
+ "fingerprintAll":"NIL/VvGBm5LiZvdwjQvtpQB9ZDk0htDZ/+LuTgBoy3sOiBuDLAdgu/htCBlwAeyKvL0huKzDuGpz81FAWPdNkQ=="
+}

@@ -1,0 +1,64 @@
+[
+ {
+  "table":"DDDDLSRC",
+  "data":
+  [
+   {
+    "DDLNAME":"ZZZ_X_REVIEW_I_AGENCY",
+    "AS4LOCAL":"N",
+    "AS4USER":"SAP_CUSTOMER",
+    "AS4DATE":"0000-00-00",
+    "AS4TIME":"00:00:00",
+    "SOURCE":"extend view entity ZI_AgencyTP with\n{\n  Agency.ZZZ_ReviewZAG : redirected to composition child ZZZ_I_Agency_ReviewTP\n}\n/*+[internal] {\n\"BASEINFO\":\n{\n\"FROM\":\n[\n\"ZR_AGENCYTP\"\n],\n\"ASSOCIATED\":\n[\n\"ZZZ_I_AGENCY_REVIEWTP\",\n\"ZZZ_R_AGENCY_REVIEWTP\"\n],\n\"BASE\":\n[\n\"ZR_AGENCYTP\"\n],\n\"ANNO_REF\":\n[],\n\"SCALAR_FUNCTION\":\n[],\n\"VERSION\":0,\n\"ANNOREF_EVALUATION_ERROR\":\"\"\n}\n}*/",
+    "PARENTNAME":"ZI_AGENCYTP",
+    "ACTFLAG":"",
+    "CHGFLAG":"",
+    "SOURCE_TYPE":"X",
+    "SOURCE_ORIGIN":"0",
+    "ABAP_LANGUAGE_VERSION":"5"
+   }
+  ]
+ },
+ {
+  "table":"DDDDLSRCT",
+  "data":
+  [
+   {
+    "DDLNAME":"ZZZ_X_REVIEW_I_AGENCY",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "DDTEXT":"Extension View: Review"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"DDLS",
+    "OBJ_NAME":"ZZZ_X_REVIEW_I_AGENCY",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"SAP_CUSTOMER",
+    "SRCDEP":"",
+    "DEVCLASS":"ZFLIGHT_REUSE_AGENCY_REV",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"ZFLIGHT",
+    "CRELEASE":"100",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2025-04-02",
+    "CHECK_DATE":"2025-04-02",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

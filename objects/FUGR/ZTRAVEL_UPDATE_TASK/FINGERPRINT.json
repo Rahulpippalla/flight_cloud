@@ -1,0 +1,46 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"FUGR ZTRAVEL_UPDATE_TASK.asx.json",
+   "fingerprint":"vnVnEVs6mN/obWJcdROVJbac+PUYxerqCqvrrhvO+ydeZ7G6uJQCZ/vDK9T4BODvUrdxGAB6ZxmEM/HKSucAeQ=="
+  },
+  {
+   "name":"FUNC ZFLIGHT_BOOKSUPPL_C.$.abap",
+   "fingerprint":"YAPYsLF+zgDuGc+sq16VF5J3dgTIN1lXrpnyGS/Evo3gJo9uRzuL5JrFvL/ira0pIkOalPbSrhjoMFCse435QQ=="
+  },
+  {
+   "name":"FUNC ZFLIGHT_BOOKSUPPL_C.abap",
+   "fingerprint":"myz7Y2NdhlH/ttIM5IUWTks5U6Cm1+v5/xZ5aEJ5mZbFLnc8RGrqFA33CKSBylDgz5F1K36bbemIN3bZO9Jomw=="
+  },
+  {
+   "name":"FUNC ZFLIGHT_BOOKSUPPL_D.$.abap",
+   "fingerprint":"aNKLe85K+4kUz9r0emkxb/GbmtxFJVEqJWL4Sav/UlfA7/I/SCoF8NG6nFSD+tfYTjAE4CsKtpk+KSp9rByXdw=="
+  },
+  {
+   "name":"FUNC ZFLIGHT_BOOKSUPPL_D.abap",
+   "fingerprint":"O4YRjRCz9l6iGQp4TpnYjnZoLjHwiYMsTlcSve0fUogCDUGPzYMBjo2VQr7L+TnbgojHKiZuN2i5jGsOozj0vA=="
+  },
+  {
+   "name":"FUNC ZFLIGHT_BOOKSUPPL_U.$.abap",
+   "fingerprint":"WFItfEKNlRD+FAnRIbdkrxmAJcaNbvlufyBwnmmmmby1sWVevb07sj/T7lC3O+lte0F99z34N1Uhf4SD3U2wrA=="
+  },
+  {
+   "name":"FUNC ZFLIGHT_BOOKSUPPL_U.abap",
+   "fingerprint":"hWV14mjMo4HF+UdMDuYukAkn4yZyI6MeXE1/r/ZeSSoeLTbCtaCMw90rzNkcrewSyb+z33YZPVe7lQg25Ju7mQ=="
+  },
+  {
+   "name":"REPS LZTRAVEL_UPDATE_TASKTOP.abap",
+   "fingerprint":"U9U+zQqATs2cI7MZLYyBXvvHGeq5lUTLcLpCFKfe6jlS2ENKVFJSRXQgKX7Dyxj1oKWjmhl2kejNWyevIHmSZQ=="
+  },
+  {
+   "name":"REPS LZTRAVEL_UPDATE_TASKUXX.abap",
+   "fingerprint":"7+0lHKhN07MLe7HrQuyGTGAXjKs9KAMTjwHejRBp8jMdbymGDW3WOQUOblYaF8ZqXWACuuATPk0gphS/HOB+5w=="
+  },
+  {
+   "name":"REPS SAPLZTRAVEL_UPDATE_TASK.abap",
+   "fingerprint":"9AEdFu90ECqfJCXlPVa07bkRWzmikh7Ln8Kz7u43uJm1Rrvfgl+rIC+n0oZ8/QR6Uki+ULMR7YRRD/y9ZpOwpg=="
+  }
+ ],
+ "fingerprintAll":"ZUYQvqYEZs0XSz4KlKnsYwXiD4vCTKuVzcoXPqUpxWqOhEoUySAsoaLAuZA2RcdckuH9iQwg0W887qUEytzi+g=="
+}

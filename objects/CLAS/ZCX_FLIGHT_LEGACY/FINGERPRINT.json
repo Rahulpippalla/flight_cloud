@@ -1,0 +1,46 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC ZCX_FLIGHT_LEGACY=============CCDEF.abap",
+   "fingerprint":"/9FQeHKDBwrSSe6NOE90apBM9pBSlQEQFNWlM5UdCJ3smAB9p5Bmo9KAul7WmWH+v+zGTxQHgbIc1h/EjKq+vg=="
+  },
+  {
+   "name":"CINC ZCX_FLIGHT_LEGACY=============CCIMP.abap",
+   "fingerprint":"RO708w7592xUYxmO4Ph2tmb+rtVhNcQNOUJK6SR7VF5NgFe+8guPJMiW1HO/YVjktwcuYaW6el4ULsE4a3SkLQ=="
+  },
+  {
+   "name":"CINC ZCX_FLIGHT_LEGACY=============CCMAC.abap",
+   "fingerprint":"4RHko2wRJL6XM8KUEc5imGnajOCZ3y7i6OyVEk0D1mBxkX53tmoCtTT6AwATOvTd8QBQkmVgYevKgWQpn3JzHg=="
+  },
+  {
+   "name":"CLAS ZCX_FLIGHT_LEGACY.asx.json",
+   "fingerprint":"UETTv2/bPV//eG60s6aRl5Vbiyg8pNPlgoNvN2KgCwSegtFG9r4FWLyJG0B5kioe8cR7pWfLvw13s2aiJH3Xvg=="
+  },
+  {
+   "name":"CLSD ZCX_FLIGHT_LEGACY.abap",
+   "fingerprint":"ZeLuFrzTBoYwmR98dto9aBZaDLBEF2I+y3evGsJKUMfe/b2qE2JSftI1gsULRxEZOBxOVRz0bx5goDNyeTu0Ag=="
+  },
+  {
+   "name":"CPRI ZCX_FLIGHT_LEGACY.abap",
+   "fingerprint":"mE95IdOY/J5PIo1WQT17qA4qOTqiJJ5oTjjO0xfs+fL9gpZFTHA30Mu1p8GJNslnQIcLpTMDzY7Rjytoemlmlw=="
+  },
+  {
+   "name":"CPRO ZCX_FLIGHT_LEGACY.abap",
+   "fingerprint":"9PKBEcdxPohfzT9ebQVk9OHJGZNCqeRkdlS4ieQpQMC3deOeN7Z5xQcNWct1jlw98J+4k4cD4x98jjaMK/X+HQ=="
+  },
+  {
+   "name":"CPUB ZCX_FLIGHT_LEGACY.abap",
+   "fingerprint":"CpxxwvFh7nvnYORg7yuLt8Ro1FFKiEPa6e2XDUCLH59zF6B0lJM+XbTiI20oLOjkM3XxsY5f4R5BJNec0Cy4Gw=="
+  },
+  {
+   "name":"METH CONSTRUCTOR.abap",
+   "fingerprint":"A1WTjHL0vfCgBKVPgMlEe2ZERQ/ckHzNUsmskft6dRye1cp0iDj7gGLqX2BNgBC1CJvWl+KPeWkM2tOXT0wIKA=="
+  },
+  {
+   "name":"REPS ZCX_FLIGHT_LEGACY=============CT.abap",
+   "fingerprint":"3QKjeLes/SQ0kX5wyGTWiaSj8K8ED98IyK4yatuY+EnRhIQnhrb9c5Hzt8tz0pfArqjOzQ8appcxeYmWWznK2w=="
+  }
+ ],
+ "fingerprintAll":"78JHTyl8kaNbEohdNE2YOjPg31nWBH7BKIrjXcFWz8LS4wFHnL9HbgBGKta6/Imdn8Zyxkpy76iSA1uV/yK3FQ=="
+}

@@ -1,0 +1,42 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC ZTC_TRAVEL_M_BO_CONSUMER======CCDEF.abap",
+   "fingerprint":"fqvPGZGqZy77Lx+v8yxjuEnhbb7Y1w4RPdmIbqvpdOGXi9zb4eH2Osiv2bsW92tDIQDU/ngeNrN10v3ODPQtDw=="
+  },
+  {
+   "name":"CINC ZTC_TRAVEL_M_BO_CONSUMER======CCIMP.abap",
+   "fingerprint":"qnyPAtQsVzgr6xrYjX5CUe87sdeQCdCdsKiAmep/oR0vsLVZ3rDjYFcsuOtojkLUJ9UandZnpDMbnbXSOE7TKw=="
+  },
+  {
+   "name":"CINC ZTC_TRAVEL_M_BO_CONSUMER======CCMAC.abap",
+   "fingerprint":"gh5wtR6d2BFDnhpxxcx5lyH8cUtjZI21QabbHkpopfFK0mawiSuWyDLR3GrzrDIAo238Xx7OIrJl9qFxYMR5Ow=="
+  },
+  {
+   "name":"CLAS ZTC_TRAVEL_M_BO_CONSUMER.asx.json",
+   "fingerprint":"wXQB48F/ujTVTtj0JDdKjSCL9wi/NxMXjpOGtaz/qvhfAnj5LK+41e9RlA8pLNVfbDk7K2K9cXtDkVsdCn4U0Q=="
+  },
+  {
+   "name":"CLSD ZTC_TRAVEL_M_BO_CONSUMER.abap",
+   "fingerprint":"fLi5+l3LpuleoGwg3MmCuOycG4RQorUhr8TNJ8DFQhlQZB/9wXS7lLAc9Hw2a5BVBkAnd49KxQ5c4v8jGJYYhQ=="
+  },
+  {
+   "name":"CPRI ZTC_TRAVEL_M_BO_CONSUMER.abap",
+   "fingerprint":"O2Mm09Luy7xp6S+jTk/DDqarD88dk4m6QKkkTx+7Qf3C6l/SoG2/8bGQ+C7+E8DmZfhZKCHJ6NZ/ZZALXS584g=="
+  },
+  {
+   "name":"CPRO ZTC_TRAVEL_M_BO_CONSUMER.abap",
+   "fingerprint":"i/TJdFA1gA1Q2AaclK3Wf0OuQ8Z/OwVfkU3Xgox/rOpqAy1HHh/p/mLnyoQPEiTTjC8LL5sA/nfCTvPlqtjdaQ=="
+  },
+  {
+   "name":"CPUB ZTC_TRAVEL_M_BO_CONSUMER.abap",
+   "fingerprint":"yC3g4AV2NQGXrgpop+fVIgjZ+rTrHDXiWj8zB5mcnd45yicOGPyHJ1nthcEBT0wKhUyC8kalnRwjE3qYJrrbYw=="
+  },
+  {
+   "name":"REPS ZTC_TRAVEL_M_BO_CONSUMER======CT.abap",
+   "fingerprint":"OnzvgRWDeSDYJ9GNuptadWMIM8wBzJMmexd7MyeuTrpcnef0YeRX8vzzIDjMyw4ioZE1i4W5Dz/yXicLbM06Yw=="
+  }
+ ],
+ "fingerprintAll":"yMRZM6BiB/oEqopY0F8z7L7nCSijURBxwAspqaT7CiEaieK3jxC1s3AkE8KsJ6mumNgqI96zu7u1D362SL3LXA=="
+}

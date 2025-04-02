@@ -1,0 +1,54 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC ZCL_FLIGHT_DATA_GENERATOR=====CCDEF.abap",
+   "fingerprint":"pjlslfwRsG67Pq65qKGX96+Y0fcHg5GUFw+SzeaXyBNOernC1OI/z2SoDmNLYS14+7sdhyMR08rK6ksOmDOT5g=="
+  },
+  {
+   "name":"CINC ZCL_FLIGHT_DATA_GENERATOR=====CCIMP.abap",
+   "fingerprint":"1M8SSV15LK5+9LExzZ5CzFa5naItaixUrqKtR3LPz44zEUSKoM7vAre78zZnHmweNMSu7lG/G6hJbtU5Oqw34g=="
+  },
+  {
+   "name":"CINC ZCL_FLIGHT_DATA_GENERATOR=====CCMAC.abap",
+   "fingerprint":"n56jpNfKMEou2HIRNsQj7hB+0VRr8v+U0Q2R4QOCCZ2QijctlXwJCRWtZ8YGMpCUBNxducrqhDFAU+jXBvOW6g=="
+  },
+  {
+   "name":"CLAS ZCL_FLIGHT_DATA_GENERATOR.asx.json",
+   "fingerprint":"AzU+d1DC2K0O1q1J88NEOJLY5LIYVUpALBoPfIBsRG8v9QUMUEoSv+OrjtSpUX9ueykcXLFX+OBSxpuQsdZFuQ=="
+  },
+  {
+   "name":"CLSD ZCL_FLIGHT_DATA_GENERATOR.abap",
+   "fingerprint":"BXAIS/63ioDYVjJW6e9wTOnxPqskq4M9dz7b0w0bmFBGn3Ajdi1QuSqJOlqH0JHv1x6PbcQMZmhJvEH7wI4zSw=="
+  },
+  {
+   "name":"CPRI ZCL_FLIGHT_DATA_GENERATOR.abap",
+   "fingerprint":"2BQAVFmtr3aIxyu7zeXjdCKukQuv+a/FCm4ioYHFAroFHUoewaVkjdKalSWIWAL+z5gIH1v8i0WdNJDsOsf99g=="
+  },
+  {
+   "name":"CPRO ZCL_FLIGHT_DATA_GENERATOR.abap",
+   "fingerprint":"V8y6ec+J8HoT6tJTbVovGIzEA5T9IljoSVn19HXUX6JSJlHUbiuRr28YTcx/EaZQ7NIl6YlCYO6ixO3C2nlyQw=="
+  },
+  {
+   "name":"CPUB ZCL_FLIGHT_DATA_GENERATOR.abap",
+   "fingerprint":"0/yWOdiye/ytstHY6RBMMjPCkVF8i4wrF/twS5YlQKnJlSHJzhlhdPZMzvu3+mBWXus/oKnbZKskQTk4NTEgwQ=="
+  },
+  {
+   "name":"METH CALCULATE_FLIGHT_PRICE.abap",
+   "fingerprint":"kZX8ZunXD49ydwz67FftN8HcccDWGTZYw8R2MQbxeGi4hpuoDIXewLk0zVerFV6LETVgFP8CH+Tholr4+MWRjw=="
+  },
+  {
+   "name":"METH IF_OO_ADT_CLASSRUN~MAIN.abap",
+   "fingerprint":"66OqSDmAhopR97cazMyRHPLaGOtIYcfS6PBjiTV0cz1Fc9tzDxwa4hix1kJuz46QHId38dqBZP9Oe8E4BKdjsA=="
+  },
+  {
+   "name":"METH RESET_NUMBERRANGE_INTERVAL.abap",
+   "fingerprint":"KqEdBhXv4lMMTSo5Rx+OTf+HV8s85mZ8Buz5w18itCqtkaZX5ih2UN9HSjiqnVFzUS07hOXDx+Iq9VQhlRBwmQ=="
+  },
+  {
+   "name":"REPS ZCL_FLIGHT_DATA_GENERATOR=====CT.abap",
+   "fingerprint":"vHdIp8/1qtT8M+azd7dwlqiW78FvsyCTh23MV1/4woGqpryG3dHgCHlmKid1Onh4h2u/m6w97XimwOjaetAAvA=="
+  }
+ ],
+ "fingerprintAll":"7MFOa6iIFDnPUr+Hx2OcPhfajK0fm3TGj8f1/0Q8NlK03cH2B1qAR3fQRRclhNbJlAor3PUTzd6gRYOJMTOuXA=="
+}

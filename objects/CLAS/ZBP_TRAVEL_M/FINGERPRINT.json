@@ -1,0 +1,46 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC ZBP_TRAVEL_M==================CCAU.abap",
+   "fingerprint":"bCMiK5QrI14/joZuc6CY2/DUolEgxKIx0e7F9gwq+WAosR4gK/CzL0Lfqsii+KyeTOxzTgwXSmO0LZMftZq7TQ=="
+  },
+  {
+   "name":"CINC ZBP_TRAVEL_M==================CCDEF.abap",
+   "fingerprint":"D4b0v+wFKIzL+C10g9jdCLahFnC0i/LfFfT8ZTfrX/Erv3/+EZ0kysDqHL/0DMBcMo4CQwB9r5LXbo8CBnN76Q=="
+  },
+  {
+   "name":"CINC ZBP_TRAVEL_M==================CCIMP.abap",
+   "fingerprint":"4zJQRk//QwyrZUHbFjeeUhJ7HOH+1nDed1l1VVqfe2PB3LY12mDAZEUWJkL6eKAOvaXvA098qkC5JUtNYt4aQQ=="
+  },
+  {
+   "name":"CINC ZBP_TRAVEL_M==================CCMAC.abap",
+   "fingerprint":"ROr69a23Q+S3oJdLoqPGEXifo5NFdqVPjxbFRzsXWEwrG+qpuUiPXeCWdYGQrT7vR0bkjp44+mliaGsORRzSIg=="
+  },
+  {
+   "name":"CLAS ZBP_TRAVEL_M.asx.json",
+   "fingerprint":"V6K+i/ZwAu+eHP3ocAyXBjO5XLwcBOoql5RS7tlz9fWh9P0AEly1zmxrNvWFa6Atwp9Z+gBThxUOffly0mYNwg=="
+  },
+  {
+   "name":"CLSD ZBP_TRAVEL_M.abap",
+   "fingerprint":"xXvVqVI7KFem+qdO6RHo7nUP7v5yk9HFtCxVBC3BKRsWD9Hfmy5d6GInmm+NGr5dDZE74874MlyLNZ/C7bP2Ug=="
+  },
+  {
+   "name":"CPRI ZBP_TRAVEL_M.abap",
+   "fingerprint":"rrTrjqfGgEU6vh5uwi7hR9UvW1Xxd9rM5KhkHC1dPfSh8h+fmcP9pIChLcadxi6fh9xRGmWtgB752khvFudxGg=="
+  },
+  {
+   "name":"CPRO ZBP_TRAVEL_M.abap",
+   "fingerprint":"ZDuik/bZ3p5PWY3FpUwNBxG7Bx9LIuF66bR45HwDJOvCnj9S5g4qURnK8my6l833A45slx2YxJH6DzLjdilOwA=="
+  },
+  {
+   "name":"CPUB ZBP_TRAVEL_M.abap",
+   "fingerprint":"y2jGC+VRrq4w9GCIk66XgufN4+IPCRE6Ga75GuJ6/K7+bMYp0eN1OutBZv0Q+2McukpYg1vvCAr+aphtbz/dXA=="
+  },
+  {
+   "name":"REPS ZBP_TRAVEL_M==================CT.abap",
+   "fingerprint":"MRcQ4jXvvmCReUaFJfZzY7wP9fYxU3ipzZeHT9DMo4I7LxYE6G2EvlQTAhsEFtJvTI3538hRUBbP49tiKfYFsA=="
+  }
+ ],
+ "fingerprintAll":"SDY1BPmIJs4EPaNEQP4+eieX12o3tSpzTqRBYFAWKhFIhlM3vpvFBBTaxazuUdrmjkgYiMhjCo3OaW8KKSgfLw=="
+}

@@ -1,0 +1,110 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC ZCL_FLIGHT_LEGACY=============CCAU.abap",
+   "fingerprint":"BTiUzQ3RKKdnmqH6mJ7UXx5iYUY8EUE1XFvYICmd6RzsmWofYrv50qwiMGQQdJzVJ4LORO5JK+CeOlcmi3UJdA=="
+  },
+  {
+   "name":"CINC ZCL_FLIGHT_LEGACY=============CCDEF.abap",
+   "fingerprint":"YL8B/wGNPb37mOd0IdP0UQh96RrJMOhQA9aBfjtpkIByXDWOUI8tssjOSOjCa8tlI0Cu+ZKMURmn+fez/IySEw=="
+  },
+  {
+   "name":"CINC ZCL_FLIGHT_LEGACY=============CCIMP.abap",
+   "fingerprint":"9PWzA7HJH1Oij4DsllvWAyuBF+h8ZnkTdaWsZqZNyJsPPMD511uQyj3HSYqAubIjSSQ6kQFiNzgxSdvvSdAFZw=="
+  },
+  {
+   "name":"CINC ZCL_FLIGHT_LEGACY=============CCMAC.abap",
+   "fingerprint":"0DCld5PYJVlmDqApL73fO2G2qG0BLf93JawEDxG8qNAmj/dfHGi+IcrPiZczEua+qPtZbaLWIxbruIoOwgAYpA=="
+  },
+  {
+   "name":"CLAS ZCL_FLIGHT_LEGACY.asx.json",
+   "fingerprint":"4XJxbwa/1AbocqhTOgn1hmm4+14T8mhrp3mOUw57ynmvcteVgAsK6a7fGR0H+0b8a4MWUgx/FW+d/G3A2dLAeA=="
+  },
+  {
+   "name":"CLSD ZCL_FLIGHT_LEGACY.abap",
+   "fingerprint":"79bmWU+H53zJ0qpgKP3KI76s56ZJ+muF1L0CDBE7q2leVDGapym4MCFp1ipl15MxhAX0nxAEqmMv107BZ2cyPQ=="
+  },
+  {
+   "name":"CPRI ZCL_FLIGHT_LEGACY.abap",
+   "fingerprint":"DmlA9gd4tiqHl0nx8SKrTh4O4lUvh/ye5M7HmJpo+dDNnAuPowdfx6zX43FDRg/sVHC+OzA/auAn8l3wjBjuHg=="
+  },
+  {
+   "name":"CPRO ZCL_FLIGHT_LEGACY.abap",
+   "fingerprint":"eVbfBTo/DEmCrtWXZ6x838RvNtlXDZvF0Po4B8zym/Ma5t4UnUz84xzdni0V3bbIoe4AweybhR4jZfuIrtsdSA=="
+  },
+  {
+   "name":"CPUB ZCL_FLIGHT_LEGACY.abap",
+   "fingerprint":"xzR3XZFBJwnCdRO6nOAZ15zwa4Ik0Qcdhv6fAFMwufvcn7FTyvRrg/wfNenoR9lhdr7Qi+EMWauOn5Jcx09tAA=="
+  },
+  {
+   "name":"METH ADJUST_NUMBERS.abap",
+   "fingerprint":"NPFxp+zoeU7rxJ9Ud5QkVXMjcSxG4p8rwSxK1DKgL56vlldNCvHDiHOeVQB2vidzzsK4Xt1CwtOzSdSm1XXSnw=="
+  },
+  {
+   "name":"METH CALCULATE_FLIGHT_PRICE.abap",
+   "fingerprint":"nlqeusVY67ikne4X0v+4L/47ala7vjChemm0g6bS3TksX6bkwS1cPvqC48cK0McVRxKHt63SatYYJ3vy/QgJuw=="
+  },
+  {
+   "name":"METH CONVERT_MESSAGES.abap",
+   "fingerprint":"4mJRhExzs6llcxMOneZEkVXwyO7rR47Q+RX0KgYyL7RW9ievJ250A/pqgN4VxIbcLPXEKprtX0W9rNQAqQI1IQ=="
+  },
+  {
+   "name":"METH CREATE_TRAVEL.abap",
+   "fingerprint":"yGXZZqdf1VXGqPOHIq5RKU48MbOAiukwWjYSunF1BnDIzmhoEn5yGnGV7UYKBZBKA+jJl9iqLlCL8fejj1tC5g=="
+  },
+  {
+   "name":"METH DELETE_TRAVEL.abap",
+   "fingerprint":"doubQ4ck+smpDLtCKH0tzcpt5GGvUFHyHAxRvGvZoiplxU8O0YuKzj3ta1JxZweJEgMUcnfLWh0buBX/dcSYIw=="
+  },
+  {
+   "name":"METH GET_INSTANCE.abap",
+   "fingerprint":"QrpSs/vvcLFQtinCwKZwMj+vbZ8yF80O4c6Qj8vCzPRwSiU75e8Slg4bMEHjkCYErN6L3jwgkHAPk+kEkWuKnw=="
+  },
+  {
+   "name":"METH GET_TRAVEL.abap",
+   "fingerprint":"1HoeUX2WRJ4pfEj1FhwuCe2JWG55/zlfngR+o3779/vUuIsrd8F0rgRCeuWrN6HHINrT53Y7CcZfrWIkmLmXTw=="
+  },
+  {
+   "name":"METH INITIALIZE.abap",
+   "fingerprint":"5EulpiivoVDah2aMVyl8NI5zQr/0tUanD+6lYzXRrSManQVhmOc41JToAeC/70GwFAtadoLN9KCxzbmXuwF/kA=="
+  },
+  {
+   "name":"METH LOCK_TRAVEL.abap",
+   "fingerprint":"4uup70TTmlKUd0vp1mt+P1XP5OxvMIM2jDGBSldyuRxVT/By7allPHTBiXfq25q8gBlhgLCq87EyUwQlmxXluw=="
+  },
+  {
+   "name":"METH SAVE.abap",
+   "fingerprint":"7NPCvwUubpRM1BzALJ55cfqTBocvNcgZZ1N4KNsePoYS96WKVXSwTXLjF2utFmbQ0KMsO7vuyrOhpNnOQssw8w=="
+  },
+  {
+   "name":"METH SET_STATUS_TO_BOOKED.abap",
+   "fingerprint":"ZG5vUkXrDiqSn18NaWqxeav0mAWgjxHHBPz+HabGhRItsbPxaVeSMp4WRre/6VxRRJjIpPJhgLCc8oUXOaJoiQ=="
+  },
+  {
+   "name":"METH UPDATE_TRAVEL.abap",
+   "fingerprint":"DXzXcgLEFk+UCtl0zXGh+x/JCOCAGFmqmrLuca1Bl6NvFQuewA323ZIHSNsjo+3f/OQ/wK+0rlSodrJjkWCzPA=="
+  },
+  {
+   "name":"METH _CONVERT_CURRENCY.abap",
+   "fingerprint":"NE1zfd0coSJAPOUYAy5WtbBKJ7SJxjrnGfByM9NED8U+iQs2CIS1swSwI3xT4mFElTdUv4Z8lgdAAGvC1JvF8g=="
+  },
+  {
+   "name":"METH _DETERMINE.abap",
+   "fingerprint":"zvwkJwxnduaIIvxKBbX6zhNdTzyZviWoVo+oOvubHoSFcJ3gSijY1JDFoWxWJj7QKspiltikcbsDx4J15Svd9w=="
+  },
+  {
+   "name":"METH _DETERMINE_TRAVEL_TOTAL_PRICE.abap",
+   "fingerprint":"A0Tme6mMWdmpyosdmrsi7b3DvoAhUy0gvozNGWy4YKml8lWENfQchZNyLbP8D+qBx/lYNWfOQQd9+p9kifRIyg=="
+  },
+  {
+   "name":"METH _RESOLVE_ATTRIBUTE.abap",
+   "fingerprint":"x7pbF1CL3OmFtMDUfqRrnBzmgOjaccoHfrF4lejgcixbSe4ORy1wbFQ2As3/FOjpW4ZvsAlJ0NOmBYu5z4BODg=="
+  },
+  {
+   "name":"REPS ZCL_FLIGHT_LEGACY=============CT.abap",
+   "fingerprint":"axiXSj86SknElZq6ayoVksU/QHE0z8TnKCfQJF2DJv0ceb0s6MvGvYWuZfqmEdap70FgYXgwQP1/qnZWTTU7JQ=="
+  }
+ ],
+ "fingerprintAll":"HeEyW5xwnvvBljeHRpMpMFEPGtwxv3Jl8rgxPFGNoZ5UWEzXWx5toeamMoIU+wdLe5ShhJjRLss3Gj/wsdlHOA=="
+}

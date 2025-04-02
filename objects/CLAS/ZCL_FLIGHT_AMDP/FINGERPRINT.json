@@ -1,0 +1,46 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC ZCL_FLIGHT_AMDP===============CCDEF.abap",
+   "fingerprint":"ef4B4ZKaPsgHAIfiUvLyTQBHShwCkSR9C7up3ucCcxY6HihBeA46MKbI1edyqW/jTmV2YMgI55snGTr8Ux6wvw=="
+  },
+  {
+   "name":"CINC ZCL_FLIGHT_AMDP===============CCIMP.abap",
+   "fingerprint":"el8Un6B6C+5BUpvsUr1xt9FvOD93oSP5PzzoMG9eXN5dfhAIiA8sbktMjkHT93vCPHIfwVVxGTGRIQmdyhzqRA=="
+  },
+  {
+   "name":"CINC ZCL_FLIGHT_AMDP===============CCMAC.abap",
+   "fingerprint":"SGfsHU2nWQjMqxf24BgG2tAKoTPpemKLL2NMZ5wr0/ecchz7+glytxmGvqGega7vEGX7Q6S/E7vlRcAR3YkKhQ=="
+  },
+  {
+   "name":"CLAS ZCL_FLIGHT_AMDP.asx.json",
+   "fingerprint":"L73hmrwE+SP9GJmDNWuQzhgSYQT/rxJur1Ey2y+hJklAhFlyeln70JX2y0b7ugXSnVEcHhrdt0jeVi/c67zs5A=="
+  },
+  {
+   "name":"CLSD ZCL_FLIGHT_AMDP.abap",
+   "fingerprint":"cotuWxW9zKm2beg9TQm5tSisAFLbkTk6J+wkcwVqVVGFLjCrzerdr+SNw30dUaJzhzB2L0EvRrur+poHHTAbLQ=="
+  },
+  {
+   "name":"CPRI ZCL_FLIGHT_AMDP.abap",
+   "fingerprint":"IOOFpXT6QRiLE5tuwi7ZhoaVB0O6jqvWZvJP9+qko6Xh7sY5epdZpmr3FYZ0to9MYb+9qlywAS2Cyywal/HIKw=="
+  },
+  {
+   "name":"CPRO ZCL_FLIGHT_AMDP.abap",
+   "fingerprint":"1HwTiCDfyjgwFBCVmGZjrwZRuYyCqo4dRhASLCvbB7EmWHUpFhhaW41sF6BdclNYFseLxbwU1lbvJRM94OS2DA=="
+  },
+  {
+   "name":"CPUB ZCL_FLIGHT_AMDP.abap",
+   "fingerprint":"wij3iQexrqRbqklat2n6oWnbQixky5zeBU5uaCuNuV70HMrJ+AH3rWmOYvUa6CdN+3zSFUQCyG8WUsphO0nBVw=="
+  },
+  {
+   "name":"METH CONVERT_CURRENCY.abap",
+   "fingerprint":"BWr7luacGi7XqSu3BAiC2x7hiaNEnC4e3A91umjc+qPh78t+S8dWQHLSAuDuu2i9+vZkvZQJnIkGpr02Vz+rLw=="
+  },
+  {
+   "name":"REPS ZCL_FLIGHT_AMDP===============CT.abap",
+   "fingerprint":"QOFXeN5X+iGQKc9nILXwIg1CI5Cl6oG7ZRWAdzLimsZeWl6EGFYHpEtNwsEpRU3WzXaBPmLgWMo9BfiLqueRoQ=="
+  }
+ ],
+ "fingerprintAll":"PZRZDqQVYMp7TMN/w5T0HOn3uCUCrlSmDxEPq3QidaFNBeiKQjVkfqJQcdWL/dBLF6y6b2aISLuL2Z9UVI2iCA=="
+}

@@ -1,0 +1,22 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"INTF ZIF_DATA_GENERATION_BADI.asx.json",
+   "fingerprint":"cm4kBBR5GHk6AGw4TDSxpEZQfjgHxgcwcA3Kg0jkd8UsLgKNOVd9aIVTKmPZKm1PrmASEUprP6YDO8TdtqK1kA=="
+  },
+  {
+   "name":"REPS ZIF_DATA_GENERATION_BADI======IP.abap",
+   "fingerprint":"v1MfwrVFttEw3Bc0hWLFjahl2oI2dnIwEvOK2gGFqHtgx5DLyQS+q5nBcJ8b7SPEY2NT2RfuiuAcTKx7+4ITAQ=="
+  },
+  {
+   "name":"REPS ZIF_DATA_GENERATION_BADI======IT.abap",
+   "fingerprint":"eEfbdxSpjk19CFzPDDX1+uGNl/WF72wg4WYohwqbVe8Tfb5tEifLSQb4mkgHcEQd8E69g8quCa1BhkwQQFGnQg=="
+  },
+  {
+   "name":"REPS ZIF_DATA_GENERATION_BADI======IU.abap",
+   "fingerprint":"jIDU/6GqBONwMT0DacXtQ7VnYmZRIkVvQBjsoHW3DeeK2LeN2yI89YG1y0HiOt6K4YHuQY3hK1nQSBSeaPyqkQ=="
+  }
+ ],
+ "fingerprintAll":"LxHr2x4an1ivJY5i1xA7DgYlTv2zvdEvH0TuK27kXoIuHRxXkvgC2xt7lSygaGy0krrKEGbJkws+YqDVs/e7Xw=="
+}

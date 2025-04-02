@@ -1,0 +1,46 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC ZTC_FLIGHT_TRAVEL_API=========CCAU.abap",
+   "fingerprint":"VM0Q3Uhf+lRCWJklWsIaP/nWGOSycVU9jIghKvIMN677jTq125ripvRJWeuXbYL2luYj291VWckA9YsZV/hEHg=="
+  },
+  {
+   "name":"CINC ZTC_FLIGHT_TRAVEL_API=========CCDEF.abap",
+   "fingerprint":"xBSLAYxrGxvVA2ZraQnT5CcoAQ3Xuv85COdbbEVbwZ03Ayql0ScBz/qQpZrsMdjiJ3yqWoMse3RuEfwrfx7eKQ=="
+  },
+  {
+   "name":"CINC ZTC_FLIGHT_TRAVEL_API=========CCIMP.abap",
+   "fingerprint":"wSZNAS1poC8hHMl7O3804I73uyimOV/ABYDXWGjbaiWlYF4NonRnYC6+si6VFTr7OfrGu2bHCsEmPBW8WC0r9Q=="
+  },
+  {
+   "name":"CINC ZTC_FLIGHT_TRAVEL_API=========CCMAC.abap",
+   "fingerprint":"NcDkuDuUnQ0308wltW1f3Fv3ScBVp05p3oJVT2+wysHdJzvrB+vxc/JWVs7jXuRJrvBM0MO1OSUROGIvNEdPfA=="
+  },
+  {
+   "name":"CLAS ZTC_FLIGHT_TRAVEL_API.asx.json",
+   "fingerprint":"49rpYujJK1i6iGcr33rCxj9wxIKt3wHfo8HXaXovqd3pru4tChVb1bLJOq1mW2zrx81Na4PPqgHiVvZD+FcpoA=="
+  },
+  {
+   "name":"CLSD ZTC_FLIGHT_TRAVEL_API.abap",
+   "fingerprint":"VQxvTBwqa+ByUG28x0y6t+UJD7FV/Op+ffFXPEM4liDsgN2FkEYDLfDEjb+x/nzMFUGy+eGIN00uugbiEBZK7Q=="
+  },
+  {
+   "name":"CPRI ZTC_FLIGHT_TRAVEL_API.abap",
+   "fingerprint":"5xmdO59V4r3yHCv7VJKHjI4x2qs2HckbA8O4El55X3XdfiVTWf/9GofEVfmFHaz8i2muT2l9JpVn97yjY0lLEg=="
+  },
+  {
+   "name":"CPRO ZTC_FLIGHT_TRAVEL_API.abap",
+   "fingerprint":"sOf0dxglTDtMoHMJ2ED5I516cSZbQjQDrM2cp8DfZ+buuId0S7dcJXC8vsPloy7525aWZy0gNXwk7WbzvaT2zw=="
+  },
+  {
+   "name":"CPUB ZTC_FLIGHT_TRAVEL_API.abap",
+   "fingerprint":"j0IUlN+4Jh9di0wcMgtTkJTrTt/bq4xJTUlhiLH+Qo24ShYI3j3X95wDNOcDkZfrivN8PtY+9HT2K1uvE5Trtw=="
+  },
+  {
+   "name":"REPS ZTC_FLIGHT_TRAVEL_API=========CT.abap",
+   "fingerprint":"f/HJXcbnECiWVe5mnFHzByYoRYb/t0rmbw31gAm5ta6zBpkjWbnVndvuz7oW709zbu2+3AaRVVMXAYfnDgWg5Q=="
+  }
+ ],
+ "fingerprintAll":"lzoGAYblYzmNkblJ/rvXcYqWVxFCqn2NCDVfxwYUc1ls2canro6MTCAnU0CNSPd6DWMUv/e7vZINcxIgEb6dag=="
+}

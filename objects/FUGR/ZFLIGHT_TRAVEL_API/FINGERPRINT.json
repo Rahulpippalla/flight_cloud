@@ -1,0 +1,94 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"FUGR ZFLIGHT_TRAVEL_API.asx.json",
+   "fingerprint":"UFR49GSQyLAhl7wdgcdtOxVtczzDPJgKfVFMjIZspr7OaPNxFDBIl3IFXMy4114b2OYn81yL90DUluMRGdiIJw=="
+  },
+  {
+   "name":"FUNC ZFLIGHT_TRAVEL_ADJ_NUMBERS.$.abap",
+   "fingerprint":"tdxQe6cl1wEteS17dJRcjmpzjqxt8zpgt8DzZNF7XR2C4lkqMIqmkY7stkuAY2A88HD1HQ0hhyYkmJvUBNvNxw=="
+  },
+  {
+   "name":"FUNC ZFLIGHT_TRAVEL_ADJ_NUMBERS.abap",
+   "fingerprint":"wegcXuQJGvgXv3m1avUE36xTSjUXtPQRRDeDzcOjLlXXrly5Jo74M4nxkdbYgffdTNaRvCygN5+tq8600k1Vog=="
+  },
+  {
+   "name":"FUNC ZFLIGHT_TRAVEL_CALC_PRICE.$.abap",
+   "fingerprint":"7UWJ8Kinhsj4pSxo17AMka6qNoSBIHI9DpqhStEk000e8yqOLC8D5vKJAd1gz/K3JtwXguQAZkoKievwV5hDXQ=="
+  },
+  {
+   "name":"FUNC ZFLIGHT_TRAVEL_CALC_PRICE.abap",
+   "fingerprint":"cF918d42PKikaukYhAJXPoGRVS+01sf3+/gI/uPHie7oAcUyPY/7FJDHhDwdik7ndErZ8Rl+wdQXKz+rKaxlfA=="
+  },
+  {
+   "name":"FUNC ZFLIGHT_TRAVEL_CREATE.$.abap",
+   "fingerprint":"XYbawunoMYn9CKwztlDtPDocjv27Y6llqeGlReGEuNVMx6Bs6ply32pAq9JPXbBVdMmsDYEV9pcOzHId4lfCeA=="
+  },
+  {
+   "name":"FUNC ZFLIGHT_TRAVEL_CREATE.abap",
+   "fingerprint":"2TnPPW0P7X3DfDE76e+aYfduD9p/QRcI2f+BMUMyLYKhmeiVrbaxwx1BX/V6F3MYwDaKBPfkSrcP1x2YamwdNw=="
+  },
+  {
+   "name":"FUNC ZFLIGHT_TRAVEL_DELETE.$.abap",
+   "fingerprint":"E4BhOf13hP30um9CxsAn/cUACN94BVw5AX61y1ehia3ShaUoE26QyAg8uYNtPkATP12UEUG4pMbtHpRRlTskWQ=="
+  },
+  {
+   "name":"FUNC ZFLIGHT_TRAVEL_DELETE.abap",
+   "fingerprint":"a2b/iY7e35Fonz5c5yaymtC8HNHTvqzJGxZBRnjy5PDzBpeQ594j8xnkBV9rjYVvRX8fVmSFgdW7Dvv+LImqRQ=="
+  },
+  {
+   "name":"FUNC ZFLIGHT_TRAVEL_INITIALIZE.$.abap",
+   "fingerprint":"vc1EyGwfxqY8lRhGtT5m6uZgAJ1aodTe66x+1VpONAxezFs5lrOrQlo+e+8vp9IlBBk4mBe8CKeXZVn/sbB7qw=="
+  },
+  {
+   "name":"FUNC ZFLIGHT_TRAVEL_INITIALIZE.abap",
+   "fingerprint":"FFui4vAYEHoygyxlKleVDeJiXmarpTfDV9NDZgj5vCTRBmy5/j7Jag9Tfttnw+T6wCyVLI/wvuvtGLMYkLImQQ=="
+  },
+  {
+   "name":"FUNC ZFLIGHT_TRAVEL_READ.$.abap",
+   "fingerprint":"XJ2+3uwiwS6X5I4y9x1D5eF7r9PQw34mNxiLddYhEoC7sCndY+OEGy32K6MBs9qvjX4dFv5/GbiR6aDxA4c/NQ=="
+  },
+  {
+   "name":"FUNC ZFLIGHT_TRAVEL_READ.abap",
+   "fingerprint":"WysWCYxia43gITkb/CxHfxDLFVE7tUyq2F/02f/ubxvww+OzFEOIi8HkpEuND78Yo2nv9AvgrFqcS93QlkhamA=="
+  },
+  {
+   "name":"FUNC ZFLIGHT_TRAVEL_SAVE.$.abap",
+   "fingerprint":"tr/LpaLZDlvOMjyH7BRWmBMndabV4O/VR4aCML98GoLxmAu9//gkV8otRkYR51O1aVQyxYOizIQzCFI38KycAA=="
+  },
+  {
+   "name":"FUNC ZFLIGHT_TRAVEL_SAVE.abap",
+   "fingerprint":"0HFVkEvoR2gc10kS8RJunU/xL67gXCcKM8JKKdiOMCYvngivG8Kvivdz9Dcd2JRfWjANqFUEOZfcG7G9dHe74g=="
+  },
+  {
+   "name":"FUNC ZFLIGHT_TRAVEL_SET_BOOKING.$.abap",
+   "fingerprint":"uRyUJx5KeyGvfaDTjPL974zCMbsRpB6vNlhxVagPxM7vXngs+d+cTj9Us/fGdw5AqgMMS0u82kfrn4OjNGCuJQ=="
+  },
+  {
+   "name":"FUNC ZFLIGHT_TRAVEL_SET_BOOKING.abap",
+   "fingerprint":"kblSKoYpJtHIXSkSR4honaoiHpV4q8Y2GUSJuCGQAJluZlczl4k+60gCStRyvHXv3+Nf+FRH3/ItDB57t8QIzQ=="
+  },
+  {
+   "name":"FUNC ZFLIGHT_TRAVEL_UPDATE.$.abap",
+   "fingerprint":"ZiJs+dJtNM9TFDAMz2Nzb73hMw0lhAJ6FGyZBIXQGN3WqJ9cZCSdnzGLLzGjrug+NxvKu58YtTJNsvw1x7oLsQ=="
+  },
+  {
+   "name":"FUNC ZFLIGHT_TRAVEL_UPDATE.abap",
+   "fingerprint":"CT/vv+Cz8EBEibuElSkqL9oyFhpxKaU4H3VqxDL4LGqWn2J+ADijndqUqQ+lABhEDsIBMyX/UNGd12Zzoi9ZTA=="
+  },
+  {
+   "name":"REPS LZFLIGHT_TRAVEL_APITOP.abap",
+   "fingerprint":"bsfam8MHJ5GjKNuOmpTXW6P2HpTmUxa+80BvnTkUGYpNqsk631kXJE/2smTmvI+al7WeNLEWHsrSRumRMFYEWg=="
+  },
+  {
+   "name":"REPS LZFLIGHT_TRAVEL_APIUXX.abap",
+   "fingerprint":"GN1TO9N6N4qPoCiYOVZfhsszmKz/PNl0CVdlpkZJK8z9o3oJDlt8XsifcWpvFc8QGcwwZBNGpGQIzuSwrggqng=="
+  },
+  {
+   "name":"REPS SAPLZFLIGHT_TRAVEL_API.abap",
+   "fingerprint":"MDS64R2Zrc9Rv+AW7K/dDI5tnq1pDwYwsm/emfl0nKIVkR5YA/aods3lR2gcIseIs+Xt4vJY2tOScY8jJJ7Rlg=="
+  }
+ ],
+ "fingerprintAll":"NmUtehAvXir7PV+lf6itD16sVsEwu5uDyYhIXz8nYC5PtgSfmbCrJbpltqxtrCrl7QwLbCdzrzCEVdMSe+1mkg=="
+}

@@ -1,0 +1,46 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC ZZZ_CX_AGENCY_REVIEW==========CCDEF.abap",
+   "fingerprint":"HWYvUbv/IjQYxYhrVOVyegfadq3wYl8IQ7ZqHeh4MKv+Gg0TNU5iddCgX2IaXIfE6BJF4Sb9rVmRuxKIZFKTqg=="
+  },
+  {
+   "name":"CINC ZZZ_CX_AGENCY_REVIEW==========CCIMP.abap",
+   "fingerprint":"k6SyHGgC8IiSyqoNc7zGm33pOfe4DB/dpQFd41Huwi/jQ9iq6B+sbzc236COdpw4pC1ei1ZTDXCu97JRC5QFaQ=="
+  },
+  {
+   "name":"CINC ZZZ_CX_AGENCY_REVIEW==========CCMAC.abap",
+   "fingerprint":"saVhFhl8c8T22hP1yljz57Ua6KTEsawh4pfjPtxJYA/MIQAoQK8qX0zUOp5iWJq/QYawxDDaal1pmbovn/bNYg=="
+  },
+  {
+   "name":"CLAS ZZZ_CX_AGENCY_REVIEW.asx.json",
+   "fingerprint":"RYIRXfOergu370rLD6Jfc7YK1DyVNFWgo7Jev8q9yNqn+zE2mY2QEy67ABatryBTUwYgaGVq//qjLp6za8qjXw=="
+  },
+  {
+   "name":"CLSD ZZZ_CX_AGENCY_REVIEW.abap",
+   "fingerprint":"twYdD8sLzSRqid6PiyHwrSdyhzTPf8YJjoa3Yr69KMj21acK4Wv1NV7PadfwzFLdGCLlzi9tiGAyXOcQCUjzPg=="
+  },
+  {
+   "name":"CPRI ZZZ_CX_AGENCY_REVIEW.abap",
+   "fingerprint":"N1htdWtMSbmKU+y8Aar4Oqs1d4zbnaAXr8cj6rQlWuiZMuJfU1KzV8ogWIssyESMDhxESjefvhiNR92yCpdheQ=="
+  },
+  {
+   "name":"CPRO ZZZ_CX_AGENCY_REVIEW.abap",
+   "fingerprint":"keklt+oMRKH69n+CBPZqap6w76GS64p40qJysIlHlE1YtVpOz203cweXQ3PAbC3SEtyXxQOcfPoiRh6170mwBw=="
+  },
+  {
+   "name":"CPUB ZZZ_CX_AGENCY_REVIEW.abap",
+   "fingerprint":"EeaD2f8HOM2gK6ZuFMx5kCBrOE2n8eU55kjtC/wGFxgnA/pq+y2I4ABJqv/P/S5ZJEnZlAWLRA7JYrJ3iabM5A=="
+  },
+  {
+   "name":"METH CONSTRUCTOR.abap",
+   "fingerprint":"aNBMlHzWcNBWOMjTyOQ4DAZaQ2QUa94Q3OHxPQvwA8QqcnsUTe52dLIdw+KSRhkM3kYYEbLkb4dg2E2WEE/u1w=="
+  },
+  {
+   "name":"REPS ZZZ_CX_AGENCY_REVIEW==========CT.abap",
+   "fingerprint":"0siVvZHTKni6dachvX5tbBCBoZc0Uan652DM01lTuz4bhZnoaWRNT6AhUzzHa+xoQWn1w+ZWVzS9DWHs/M12bg=="
+  }
+ ],
+ "fingerprintAll":"e77n2wuoEA5j7BzCq5qq0+KNih2x825mfARg39ouQWDKUfycjrb1Q+qjo49CCC22ty0yty7hvPUY+A9k19nbCg=="
+}

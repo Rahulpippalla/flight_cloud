@@ -1,0 +1,46 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC ZZZ_CX_AGENCY_COUNTRY=========CCDEF.abap",
+   "fingerprint":"B5Y78X60BJd41cPltd0ecKvoY+th67d/wHLg4hp7LC8kALDJf55O2nqJv8ufbL/zwxys7ZTHdfStmDqeoOmK9Q=="
+  },
+  {
+   "name":"CINC ZZZ_CX_AGENCY_COUNTRY=========CCIMP.abap",
+   "fingerprint":"qa2ldZVs8NPTeCBpkvBIbr6y8gItZsGtXZbJRjp4Jeu6TqtKQYUxAw7mSPvBZZ/RJVlaLzvO2wOl9Wg27VSCbQ=="
+  },
+  {
+   "name":"CINC ZZZ_CX_AGENCY_COUNTRY=========CCMAC.abap",
+   "fingerprint":"6TKYqZnUw7ZRi/PZBjrDlHYKHVc2qWaTw8HDc/KKGNNEiwWKbvCptiK58WCUhfqIU0vektiai485lphMcUXPiA=="
+  },
+  {
+   "name":"CLAS ZZZ_CX_AGENCY_COUNTRY.asx.json",
+   "fingerprint":"QMNbyxPuy4Rhu3oEaTrUGMpwfRwtfh6BVSXxnXu70Wxfpd4oZt/pJqhJAqStD9DWG7aPhhUnr5JO4Sn6oWulWg=="
+  },
+  {
+   "name":"CLSD ZZZ_CX_AGENCY_COUNTRY.abap",
+   "fingerprint":"KqF53GKu/8Ov+uXmhiwF6UxDz2oIGHuwY4CrrhL8vggUH65NxlVlb203pNjMgW8zvWyMAnwIm54tDMXAJyPXng=="
+  },
+  {
+   "name":"CPRI ZZZ_CX_AGENCY_COUNTRY.abap",
+   "fingerprint":"lKkVsnwTu57hOgCKcr0AabI6C8brNymnJ3mToBqJ3446cO5UclI3IzbrZlVychhHZjS8ww6brIesR5eE6SrmGg=="
+  },
+  {
+   "name":"CPRO ZZZ_CX_AGENCY_COUNTRY.abap",
+   "fingerprint":"9hYSGkN3c8LjXVlLnCLayDQ+frd9oC+HxvVheBSXUi8PuClYONjdZQvhI8XhEM47yRIgxGILYJRV2VDUftcsMA=="
+  },
+  {
+   "name":"CPUB ZZZ_CX_AGENCY_COUNTRY.abap",
+   "fingerprint":"vhFTO+o6tdLr5OIBwhwR/1RqXzF6Tu0vogbdkAx2gu6MmtmpbNfwqpCGVQGHYk/I2S4ZnUpKWQrNpmua+UhrsQ=="
+  },
+  {
+   "name":"METH CONSTRUCTOR.abap",
+   "fingerprint":"S0mTXcW2M75pWShsTDNHg0x7DKSRrTt0FuSGxyF6xpCpUDPa9IdyWNEioFJQCSNMFt2vFFPCylb8ZTs4SBj7Aw=="
+  },
+  {
+   "name":"REPS ZZZ_CX_AGENCY_COUNTRY=========CT.abap",
+   "fingerprint":"PfnYxBvdvmyET76KtJGzxTw3K58LnC4KaP3e6U47R97qFQPH+s0Gay5z3ZV956/DsWDkd9sElvMX+iBUp2/YHw=="
+  }
+ ],
+ "fingerprintAll":"4mQMpGFhvz+cVpxrlsvWdIthz0UmOclvFdRAnxLPss1t3FLbOOBBz65stD+RvhIgOPi5Pq2MdR9RgO/TROZqrQ=="
+}

@@ -1,0 +1,46 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC ZCM_FLIGHT_MESSAGES===========CCDEF.abap",
+   "fingerprint":"xeGeSvr1BeNVvXo+1Qj2rjmwlfEv0e+kvYotsgtwHW8G8wJVBa7BMQf1NsRv8Fa7TbObt4qkbeNtyXBnIydRXA=="
+  },
+  {
+   "name":"CINC ZCM_FLIGHT_MESSAGES===========CCIMP.abap",
+   "fingerprint":"8xZZALHONGO2566FDJytZGv16eSFRCsL1Dqa7vt1d49ZQ6EytTeeUhaY2Lgnbc84IkbzDooloHC6Bsydd81tIg=="
+  },
+  {
+   "name":"CINC ZCM_FLIGHT_MESSAGES===========CCMAC.abap",
+   "fingerprint":"UDAC+tJlKylWFgrH7xrmfiN3QHhfnl+44+gh+zNpRhte+RZo6W9gCCNS4DFkKQaD3g0rf/QDFr2C5QGRzlS73w=="
+  },
+  {
+   "name":"CLAS ZCM_FLIGHT_MESSAGES.asx.json",
+   "fingerprint":"iXkN6OUvpyJ41kIM3Z/Tpjx8lhAbGIQILTaPUP2KA2TtgWPF3K63YNsq5YrbEreDW9TGa3G93+DrtoOAaoFA4A=="
+  },
+  {
+   "name":"CLSD ZCM_FLIGHT_MESSAGES.abap",
+   "fingerprint":"g0H570lEnhqpj1LbiQauSkyo9H8v0ipQkO4WiGVzMEvThVJroTw3c2TG8jeb8jpnJIutyU6YYDz0aX/V1TLutw=="
+  },
+  {
+   "name":"CPRI ZCM_FLIGHT_MESSAGES.abap",
+   "fingerprint":"0FICqMOO62USc9v63UQPjXuHRhLq9gb0okxKBcFnwkZjpntB3sDySmu38NyDn57lENyZYY7jZFbeu5MpKw0+sA=="
+  },
+  {
+   "name":"CPRO ZCM_FLIGHT_MESSAGES.abap",
+   "fingerprint":"hGDVK4BNIqNdXtHIT/GBGj1WRBjbK/8KJ1GzlBP7vblbH5VjCIdFlrPxPuNjy79F0CdfBISgWWQAIq6t9Y6kFQ=="
+  },
+  {
+   "name":"CPUB ZCM_FLIGHT_MESSAGES.abap",
+   "fingerprint":"Wg6/QRSv95t+OVt7f1bFCSFm/C6pFJCeNpj28hGq6Kq7jxGTwWifYZEbfA2CLA0NCXWjqM+KAiY2MjBCuTXN/Q=="
+  },
+  {
+   "name":"METH CONSTRUCTOR.abap",
+   "fingerprint":"/ar7he/e1vEDKNlpdQBuSCp6/XNBGm0WTQhbmh8HG7MCGvoL9pOPhCy++1vs1YX5yDzYRD0l7elVYxGHqdfa2A=="
+  },
+  {
+   "name":"REPS ZCM_FLIGHT_MESSAGES===========CT.abap",
+   "fingerprint":"cKW+DRkGqrgI9hRaxqOp5Bd5dugt9vIakM69bdT7rH0gGyAew+IaCmmfERr038P+wiAQCRtvQSrgJrLdQpdooQ=="
+  }
+ ],
+ "fingerprintAll":"21MpN7/g0hqKMcibxVKm7DURc6jpNka2zbgVzmt4kf6VXFEKIQ22dShKS8mDBTbxoREHkk1BWli7x+Yhj5tyaA=="
+}
