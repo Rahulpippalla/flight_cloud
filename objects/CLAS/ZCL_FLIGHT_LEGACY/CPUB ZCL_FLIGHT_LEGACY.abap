@@ -20,6 +20,9 @@ CLASS zcl_flight_legacy DEFINITION
     "   I.e. when the caller wants to start over, he needs to call Initialize() explicitly.
     "   Extra Code - Conflict Creation
 
+    "Demo
+
+
     METHODS set_status_to_booked IMPORTING iv_travel_id TYPE ztravel_id
                                  EXPORTING et_messages  TYPE zif_flight_legacy=>tt_if_t100_message.
 
